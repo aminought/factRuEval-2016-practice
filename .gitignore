@@ -58,3 +58,7 @@ docs/_build/
 # PyBuilder
 target/
 scripts/dialent/dbg.py
+
+output/*
+.ipynb_checkpoints
+.vscode
